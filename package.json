@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "server": "json-server --watch db.json"
+    "server": "json-server --watch db.json --port 3004"
   },
   "keywords": [],
   "author": "",
