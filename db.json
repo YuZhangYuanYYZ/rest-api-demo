@@ -40,6 +40,27 @@
       "body": "hello comments 3",
       "postId": 1,
       "id": 5
+    },
+    {
+      "body": "hello comments 3",
+      "postId": 1,
+      "id": 6
+    }
+  ],
+  "todos": [{
+      "id": 1,
+      "text": "hello todos 1",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "text": "hello todos 2",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "hello todos 3",
+      "completed": false
     }
   ],
   "profile": {
